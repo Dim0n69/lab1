@@ -10,7 +10,7 @@ int main()
 {
     int i = 0, k = 0;
     //double p;
-    double h = 0; //счет слов с удвонной глассной
+    double h = 0; //schet слов с удвонной глассной
     char r;
     string bufer;
     string slovo;
